@@ -16,7 +16,6 @@
 
 <div align="center" style="margin-top: 30px;">
   <h2 style="color:#333; font-family:Arial, sans-serif;">🔥 Let's Code!</h2>
-  <img src="https://media.giphy.com/media/l1J9qemh1La8b0Rag/giphy.gif" alt="Coding GIF" style="border-radius:10px; width: 300px; margin-top: 15px;" />
 </div>
 
 <div align="center" style="margin-top: 30px;">
