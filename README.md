@@ -4,19 +4,12 @@
 
 <h1 align="center">Hey there 👋, I'm Aakash</h1>
 
-
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aakash.aakash&" style="border-radius:10px; box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);" />
-</div>
-
 <div align="center" style="margin-top: 30px;">
   <h2 style="color:#333; font-family:Arial, sans-serif;">🔥 Let's Code!</h2>
 </div>
 
 <div align="center" style="margin-top: 30px;">
   <h2 style="color:#333; font-family:Arial, sans-serif;">🚀 I am a Frontend Developer</h2>
-  
 </div>
 
 <h3 align="left">👩‍💻 About Me</h3>
@@ -48,8 +41,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="git logo" />
 </div>
-
-
 
 <h3 align="left">📫 Connect with Me</h3>
 
